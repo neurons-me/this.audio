@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suiGn/this.audio.git"
+    "url": "git+https://github.com/neurons-me/this.audio.git"
   },
   "homepage": "https://www.npmjs.com/package/this.audio",
   "docs": "https://suiGn.github.io/this.audio",
